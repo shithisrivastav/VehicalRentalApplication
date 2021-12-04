@@ -17,8 +17,8 @@ class TestVehicleRentalSystem {
 		Double exceptedValue=480.0;
 		int delta=5;
 		System.out.println("Total trip fare : " + calculateFare + " EUR");
-	    assertEquals(exceptedValue,calculateFare,delta);
-	    assertEquals(480.0,calculateFare,5);
+	        assertEquals(exceptedValue,calculateFare,delta);
+	        assertEquals(480.0,calculateFare,5);
 	   
 	}
 	@Test
@@ -28,8 +28,8 @@ class TestVehicleRentalSystem {
 		Double exceptedValue=525.0;
 		int delta=5;
 		System.out.println("Total trip fare : " + calculateFare + " EUR");
-	    assertEquals(exceptedValue,calculateFare,delta);
-	    assertEquals(525.0,calculateFare,5);
+	        assertEquals(exceptedValue,calculateFare,delta);
+	        assertEquals(525.0,calculateFare,5);
 	   
 	}
 	@Test
@@ -39,8 +39,8 @@ class TestVehicleRentalSystem {
 		Double exceptedValue=595.0;
 		int delta=5;
 		System.out.println("Total trip fare : " + calculateFare + " EUR");
-	    assertEquals(exceptedValue,calculateFare,delta);
-	    assertEquals(595.0,calculateFare,5);
+	        assertEquals(exceptedValue,calculateFare,delta);
+	        assertEquals(595.0,calculateFare,5);
 	   
 	}
 
@@ -53,7 +53,7 @@ class TestVehicleRentalSystem {
 		int delta=1;
 		System.out.println("Total trip fare : " + calculateFare + " EUR");
 		assertEquals(exceptedValue,calculateFare,delta);
-	    assertEquals(1550.0,calculateFare,1);
+	        assertEquals(1550.0,calculateFare,1);
 	     
 	    
 	}
