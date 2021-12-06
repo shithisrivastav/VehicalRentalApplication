@@ -1,5 +1,5 @@
 # VehicalRentalApplication
-To run the project please download the whole file from Application.rar and we can import it into Eclipse or anyIDE
+To run the project please download the whole file from Application.ZIP which is avaliable in my repository and we can import it into Eclipse or anyIDE
 #This project file class is used to calculate the total expenses of the given trip.
 i.e VMGOLF car with 3 passenger ,non/ac, dieseal 
 # Same with SUV,CAR,BUS as per given requirment
